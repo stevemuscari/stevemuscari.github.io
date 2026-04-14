@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Steve Muscari"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: music.qmd
+        text: Music
+      - href: posts/index.qmd
+        text: Math
+
+format:
+  html:
+    theme:
+      - cosmo 
+    css: ./styles.css
+    toc: false
+
+
+

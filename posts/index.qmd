@@ -1,0 +1,7 @@
+---
+title: "Math"
+listing:
+  contents: .
+  sort: "date desc"
+  type: grid
+---
